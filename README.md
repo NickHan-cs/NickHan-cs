@@ -1,5 +1,8 @@
 ### Hi there 👋
+
 ![Chengkai Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickHan-cs&show_icons=true&theme=radical)
+
+![Chengkai Han's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NickHan-cs&layout=compact&theme=radical)
 
 <!--
 **NickHan-cs/NickHan-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
