@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am Chengkai Han, an undergraduate of Shen Yuan Honors College, Beihang University.
+- 🔭 I am Chengkai Han, an undergraduate of Shen Yuan Honors College, Beihang University.
+- 🌱 My research interests include deep learning, spatio-temporal data mining and traffic prediction.
+- 👯 I am also a member of [LibCity](https://github.com/LibCity/Bigscity-LibCity), which is a unified, flexible and comprehensive traffic prediction library. It provides researchers with a credibly experimental tool and a convenient development framework. Welcome to visit our [GitHub repository](https://github.com/LibCity/Bigscity-LibCity) and [website](https://libcity.ai) for more details.
 
 <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=NickHan-cs&show_icons=true&theme=radical&count_private=true" />
